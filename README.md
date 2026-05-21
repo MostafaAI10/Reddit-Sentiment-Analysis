@@ -57,5 +57,5 @@ Source (US stocks):  https://www.nasdaq.com/market-activity/stocks/screener?exch
 
 
 
-## Develpoed Py: 
+## Develpoed By: 
 MOSTAFA ABDELHAMED
