@@ -1,4 +1,4 @@
-# reddit-sentiment-analysis
+# Reddit-Sentiment-Analysis
 This program goes through reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.  
 
 ## Program Parameters
@@ -57,7 +57,6 @@ Source (US stocks):  https://www.nasdaq.com/market-activity/stocks/screener?exch
 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+## Develpoed By: 
+MOSTAFA ABDELHAMED
 
