@@ -1,6 +1,6 @@
 # Reddit-Sentiment-Analysis
 
-  ![image alt](https://github.com/MostafaAI10/Gapminder-R-Analysis/blob/f6bf82ab595ff34ae729b49c43e35b252d74724e/Banner.png)
+  ![image alt](https://github.com/MostafaAI10/Reddit-Sentiment-Analysis/blob/6d59e52dedfa8d4554af3c1830f5c46c8c6cb31a/Banner.png)
 
 ## Program Parameters
 <pre>
